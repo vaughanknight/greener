@@ -1,20 +1,19 @@
 # GREENER
 
-**GREEN E**ngineering **R**esources – For Greener Software
-Engineering
+**GREEN E**ngineering **R**esources – For Greener Software Engineering
 
 # What is Greener?
 
 Greener is a set of guidance and practices to help software engineers build
 greener software. It can be broken down into:
 
--   Greener Engineering – Guidance on greener software and cloud engineering
+-   **Greener Engineering** – Guidance on greener software and cloud engineering
     practices
 
--   Greener Conversations – Guidance on how to broker conversations about
+-   **Greener Conversations** – Guidance on how to broker conversations about
     greener software engineering with stakeholders and teams
 
--   Greener Backlog – A backlog to track, manage, and frame greener software
+-   **Greener Backlog** – A backlog to track, manage, and frame greener software
     engineering practices on your projects
 
 # What is Green Software?

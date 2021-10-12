@@ -1,6 +1,6 @@
 # GREENER
 
-**GREEN E**ngineering **R**esources – For Greener Software Engineering
+**GREEN E**ngineering **R**esources – For Greener Sustainable Software Engineering 
 
 # What is Greener?
 

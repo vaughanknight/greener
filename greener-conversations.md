@@ -3,11 +3,11 @@ When we talk about the importance of environmental sustainability, saving the pl
 
 So what do an organization's everyday problems look like?
 
-- Growing revenue Make more money (brand image, more customers, more awareness, PR, doing the next coolest thing, empower customers to do more to also contribute)
-- Reducing spend (cutting out unnecessary costs) using energy only when needed
+- **Growing revenue** Make more money (brand image, more customers, more awareness, PR, doing the next coolest thing, empower customers to do more to also contribute)
+- **Reducing spend** (cutting out unnecessary costs) using energy only when needed
   - Optimizing operations (getting more out of what you invest)
   - Increasing efficiency (get something done faster)
-- Hiring good people
+- **Hiring good people**
 
 ## Growing revenue
 Organizations are always looking for ways to make more money. An organization’s main source of revenue is from its customers so maintaining a good relationship with its customers is vital. Some common questions an organization will continuously ask itself is, how do we keep our existing customers while getting more customers? Or how do we ensure we are conveying the right message to the public? This is where environmental sustainability can come into play as it is a matter we all should care about. Therefore an organization that cares about environmental sustainability and takes necessary actions can improve its brand image. At this day in age, there is an ever increasing amount of organization that have jumped on the environmental sustainability band wagon, so if you still haven’t thought about environmental sustainability yet, you are already behind your competition. Customers want to do the right thing and if the products or services you sell to them empower them to do so, in this case to save our planet, the more likely they will want to spend their money on your organization. 

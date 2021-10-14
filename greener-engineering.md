@@ -21,7 +21,7 @@ Being energy efficient means to use less energy to do the same job. This means m
 
 ## Hardware efficient
 
-Using less hardware to do the same job applies to being more hardware efficient. You may have a server that sits in your data center but is barely used so rather than keeping it up and running 24/7 you can move it to the cloud and schedule the server to auto-shutdown after it is not used for a certain period of time. You can also try to run your workloads in data centers in different regions which may use more renewables and produce less carbon emissions (https://app.electricitymap.org/map). Depending on which changes you make, you can see a reduction of emissions from 5 to 97%.  
+Using less hardware to do the same job applies to being more hardware efficient. You may have a server that sits in your data center but is barely used so rather than keeping it up and running 24/7 you can move it to the cloud and schedule the server to auto-shutdown after it is not used for a certain period of time or just go serverless. You can also try to run your workloads in data centers in different regions which may use more renewables and produce less carbon emissions (https://app.electricitymap.org/map). Depending on which changes you make, you can see a reduction of emissions from 5 to 97%.  
 
 - High server utilization
 - Efficient servers

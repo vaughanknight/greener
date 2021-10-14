@@ -24,11 +24,11 @@ greener software. It can be broken down into:
 
 Greener Engineering relates to the practice of creating Green Software.
 
-\<Link to Greener Engineering Document\>
+[Link to Greener Engineering Document](https://github.com/vaughanknight/greener/blob/main/greener-engineering.md)
 
 # Greener Conversations
 
-\<Link to Greener Conversations Document\>
+[Link to Greener Conversations Document](https://github.com/vaughanknight/greener/blob/main/greener-conversations.md)
 
 # Greener Backlog
 
@@ -45,4 +45,4 @@ The Greener Backlog is your starting point for this. Designed to be easily
 imported into any project, it is your backlog to evolve and change to fit your
 needs on your own projects.
 
-\<Link to Greener Backlog Documentation\>
+[Link to Greener Backlog Documentation](https://github.com/vaughanknight/greener/blob/main/greener-backlog.md)

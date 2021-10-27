@@ -1,2 +1,2 @@
 # Greener Backlog
-- [Greener security checklist](https://github.com/vaughanknight/greener/blob/main/GreenerChecklist.csv)
+- [Greener Security Checklist](https://github.com/vaughanknight/greener/blob/main/GreenerChecklist.csv)

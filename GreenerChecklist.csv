@@ -1,0 +1,48 @@
+Item,Category,Tags
+Data compression/decompression of data when transmitting,Data transmission and ingestion,Data transmission
+Reduce the size and optimize the data I am injesting,Data transmission and ingestion,"Data optimization, data transmission"
+Ingest my data using energy efficient resources when possible,Data transmission and ingestion,Resource utilization
+"Know how green the data sources I am ingesting data from are to understand how that impacts my application's ""greeness""",Data transmission and ingestion,Data sources
+Optimize the number of interfaces I have to reduce unnecessary transfer of data,Data transmission and ingestion,Interface reduction
+Migrate and consolidate resources wherever possible,Data transmission and ingestion,Resource consolidation
+Design my network so that I reduce the distance my data needs to travel,Data transmission and ingestion,Network efficiency
+Reduce the distance your data travels as well as the amount of data you send across your network,Data transmission and ingestion,Data transmission
+"Implement caching when possible (Edge caching, server-side caching, database caching, browser caching, proxy caching/CDN)",Data storage and retention,Caching
+Optimize my data storage design and reduce redundancy in running my database ,Data storage and retention,"Database optimizaion, query optimization, indexing"
+Database design optimizaion - are we using the right DB to store our data?,Data storage and retention,"Database optimization, Storage optimizationm "
+Query optimization and reduce redundant queries,Data storage and retention,Query optimization
+Implement indexing ,Data storage and retention,Index
+Run my algorithms efficiently so I can reduce energy usage,Data processing and modeling,"Efficient processes, processing time reduction"
+Reducing time to run algorithms and backend processes,Data processing and modeling,Processing time reduction
+Refactor code so that it is written in the cleanest and most efficient way,Data processing and modeling,Refactoring
+Identify areas for optimization in the code where CPU utilization can be reduced,Data processing and modeling,Code optimization
+"As a system engineer, I want to run my backend processes on renewable or efficient energy sources when possible so that I can reduce the energy consumption of my application",Data processing and modeling,"Batch management, renewable energy"
+Evaluate application latency limits and tolerance,Data processing and modeling,Latency tolerance
+Run aynchronous processes on renewable energy or resources that consume less energy,Data processing and modeling,"Batch management, renewable energy, worker process management, low priority VMs"
+Where possible leverage data centers running in regions with low carbon intensity,Data processing and modeling,"Carbon intensity, data centers"
+Ensure my IT resource supply meets demand ,Resource utilization,"Resource utilization, resource optimization"
+"On prem to cloud where possible, assess any hardware usage patterns",Resource utilization,"Hardware optimization, cloud optimization"
+Auto-scaling or burst capabilities implemented,Resource utilization,"Auto-scaling, burst"
+Elasticity implemented,Resource utilization,Elasticity
+Reducing size of VMs that have low utilization to increase utilization,Resource utilization,"VM, resource utilization"
+Ensure servers and machines are at a high rate of utilization,Resource utilization,Resouce utilization
+Consider PaaS solution to have more control over resource utilization,Resource utilization,"Resource utilization, PaaS"
+Applications with higher resource utilization or broader distribution might want to see if programming language and framework choices may impact energy usage,Resource utilization,Programming language
+Conduct performance testing to identify areas for tuning the performance of application,Verification,Performance testing
+"Identify user load, latency acceptable and throughput required for the applications, define NFRs",Verification,NFRs
+Choose lowest pricing tier for the Azure services that has specifications matching NFRs,Verification,Service selection
+Run simulated load test on key application scenarios and identify where resource utilization can be improved,Verification,Load testing
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

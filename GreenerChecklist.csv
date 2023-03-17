@@ -1,6 +1,6 @@
 Item,Category,Tags
 Data compression/decompression of data when transmitting,Data transmission and ingestion,Data transmission
-Reduce the size and optimize the data I am injesting,Data transmission and ingestion,"Data optimization, data transmission"
+Reduce the size and optimize the data I am ingesting,Data transmission and ingestion,"Data optimization, data transmission"
 Ingest my data using energy efficient resources when possible,Data transmission and ingestion,Resource utilization
 "Know how green the data sources I am ingesting data from are to understand how that impacts my application's ""greeness""",Data transmission and ingestion,Data sources
 Optimize the number of interfaces I have to reduce unnecessary transfer of data,Data transmission and ingestion,Interface reduction
@@ -29,8 +29,8 @@ Ensure servers and machines are at a high rate of utilization,Resource utilizati
 Consider PaaS solution to have more control over resource utilization,Resource utilization,"Resource utilization, PaaS"
 Applications with higher resource utilization or broader distribution might want to see if programming language and framework choices may impact energy usage,Resource utilization,Programming language
 Conduct performance testing to identify areas for tuning the performance of application,Verification,Performance testing
-"Identify user load, latency acceptable and throughput required for the applications, define NFRs",Verification,NFRs
-Choose lowest pricing tier for the Azure services that has specifications matching NFRs,Verification,Service selection
+"Identify user load, latency acceptable and throughput required for the applications, define Non Functional Requirements",Verification,Non Functional Requirements
+Choose lowest pricing tier for the Azure services that has specifications matching Non Functional Rrequirements,Verification,Service selection
 Run simulated load test on key application scenarios and identify where resource utilization can be improved,Verification,Load testing
 ,,
 ,,
